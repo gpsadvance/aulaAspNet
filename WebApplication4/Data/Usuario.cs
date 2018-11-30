@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace WebApplication4.Data
 {
+    // teste 3
     public class Usuario
     {
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
