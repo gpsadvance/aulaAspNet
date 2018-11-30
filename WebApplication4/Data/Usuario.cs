@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace WebApplication4.Data
 {
-    // teste
+    // teste 2
     public class Usuario
     {
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
